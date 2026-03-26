@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_CpVVsP3xEfC5bYqAqn8jJg" name="padel_rackets" id="_CpGsMP3xEfC5bYqAqn8jJg" dataPackage="_CpZnIP3xEfC5bYqAqn8jJg" Server="Localhost 127.0.0.1" FilePath="C:/Users/firas/Desktop/pi_sport/Sports/padel_rackets.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" EscapeChar="&quot;\&quot;&quot;" TextEnclosure="&quot;'&quot;" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_CpZnIP3xEfC5bYqAqn8jJg" name="default" dataManager="_CpVVsP3xEfC5bYqAqn8jJg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_CpZnIf3xEfC5bYqAqn8jJg" id="_kO_6MP3wEfC5bYqAqn8jJg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnIv3xEfC5bYqAqn8jJg" label="title" length="62" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnI_3xEfC5bYqAqn8jJg" label="handle" length="62" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnJP3xEfC5bYqAqn8jJg" label="vendor" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnJf3xEfC5bYqAqn8jJg" label="product_type" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnJv3xEfC5bYqAqn8jJg" label="tags" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnJ_3xEfC5bYqAqn8jJg" label="created_at" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnKP3xEfC5bYqAqn8jJg" label="price" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnKf3xEfC5bYqAqn8jJg" label="sku" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnKv3xEfC5bYqAqn8jJg" label="image" length="135" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnK_3xEfC5bYqAqn8jJg" label="weight" length="164" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnLP3xEfC5bYqAqn8jJg" label="shape" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnLf3xEfC5bYqAqn8jJg" label="foam" length="126" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnLv3xEfC5bYqAqn8jJg" label="collection" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnL_3xEfC5bYqAqn8jJg" label="game_level" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnMP3xEfC5bYqAqn8jJg" label="frame" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnMf3xEfC5bYqAqn8jJg" label="surface" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnMv3xEfC5bYqAqn8jJg" label="professional_player" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnM_3xEfC5bYqAqn8jJg" label="color" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnNP3xEfC5bYqAqn8jJg" label="racket_type" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnNf3xEfC5bYqAqn8jJg" label="balance" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnNv3xEfC5bYqAqn8jJg" label="gender" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnN_3xEfC5bYqAqn8jJg" label="racket_cover" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnOP3xEfC5bYqAqn8jJg" label="Column22" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnOf3xEfC5bYqAqn8jJg" label="Column23" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CpZnOv3xEfC5bYqAqn8jJg" label="Column24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

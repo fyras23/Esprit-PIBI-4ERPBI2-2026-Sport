@@ -1,0 +1,521 @@
+[ {
+  "baseItem" : {
+    "id" : "_1eCesBXOEfGlNqhyFvrkKA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Tournament_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDy2YBXNEfGlNqhyFvrkKA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_2DmowBTwEfGdn5ZR28BqoQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Tournament_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Player_man",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Tournament",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_date",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Fact_Player_Performance",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_4TslwBXlEfGlNqhyFvrkKA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - SA_Equipments",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Equipments",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Player_man",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Fact_Equipment_Usage",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_84cssBXMEfGlNqhyFvrkKA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Tournament_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ROHCQP-oEfCiO91ZSMY0ug - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jpm3wP-pEfCiO91ZSMY0ug - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_DoFAMArGEfGm1Lq0w2GA-A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Men_Players_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Player_man",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_F5kyIBXREfGlNqhyFvrkKA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Tournament_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Player_man",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Tournament",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_date",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Fact_Player_Performance",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_FUlMUP-kEfCEWOStB9S8Qw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Tournament_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ROHCQP-oEfCiO91ZSMY0ug - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jpm3wP-pEfCiO91ZSMY0ug - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_HJT6sBXcEfGlNqhyFvrkKA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Tournament_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Player_man",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Tournament",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_date",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Fact_Player_Performance",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_K3xc8AUnEfGkG_7QUf1oNA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_MATV0AUoEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - points_system",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_MATV0AUoEfGkG_7QUf1oNA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_MxqhoBTcEfGdn5ZR28BqoQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_date",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_VMAJAAUrEfGkG_7QUf1oNA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_XuSKcAUpEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_iKd1cAUpEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - TournamentTopFemale",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - tournamentTopMale_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_XuSKcAUpEfGkG_7QUf1oNA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_iKd1cAUpEfGkG_7QUf1oNA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_W2034P-gEfCEWOStB9S8Qw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_RBhRYP-gEfCEWOStB9S8Qw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Men_Players_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_RBhRYP-gEfCEWOStB9S8Qw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_YNmaEArDEfGm1Lq0w2GA-A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Tournament_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Tournament",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_cotn0P38EfC5bYqAqn8jJg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KW4wUBXkEfGlNqhyFvrkKA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - SA_Equipments",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KW4wUBXkEfGlNqhyFvrkKA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_jrofgAUkEfGkG_7QUf1oNA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Tournament_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kndrUP-iEfCEWOStB9S8Qw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_sTaDUP-iEfCEWOStB9S8Qw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - women_players_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_sTaDUP-iEfCEWOStB9S8Qw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_qjLa0P-tEfCiO91ZSMY0ug",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Tournament_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Player_man",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Player_women",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Tournament",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_date",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Fact_Player_Performance",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_x92VAAUxEfGkG_7QUf1oNA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - SA_Equipments",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Equipments",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_xhL3UBW9EfGlNqhyFvrkKA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - Tournament_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Tournament",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_date",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Fact_Tournament_Event",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_yUhYQArGEfGm1Lq0w2GA-A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KID3cP35EfC5bYqAqn8jJg - women_players_SA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bJ74UAUxEfGkG_7QUf1oNA - Dim_Player_women",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

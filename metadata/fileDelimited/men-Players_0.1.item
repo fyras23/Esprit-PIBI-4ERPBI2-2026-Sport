@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_RBrCYP-gEfCEWOStB9S8Qw" name="men-Players" dataPackage="_RBrCYf-gEfCEWOStB9S8Qw" Server="Localhost 127.0.0.1" FilePath="C:/Users/firas/Desktop/pi_sport/men-Players.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_RBrCYf-gEfCEWOStB9S8Qw" name="default" dataManager="_RBrCYP-gEfCEWOStB9S8Qw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_RBrCYv-gEfCEWOStB9S8Qw" id="_AxlfEP-gEfCEWOStB9S8Qw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RBrCY_-gEfCEWOStB9S8Qw" label="player" length="26" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RBrCZP-gEfCEWOStB9S8Qw" label="country" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RBrCZf-gEfCEWOStB9S8Qw" label="points" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RBrCZv-gEfCEWOStB9S8Qw" label="position" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RBrCZ_-gEfCEWOStB9S8Qw" label="move" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,22 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="row1.surface == null || row1.surface.trim().equals(&quot;&quot;)&#xD;&#xA;? &quot;turf&quot;&#xD;&#xA;: (row1.surface.toLowerCase().contains(&quot;sabl&quot;) ? &quot;sand&quot; : row1.surface)">
+  <variables name="row2.title" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.handle" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.vendor" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.product_type" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.tags" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.created_at" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row2.price" value="null" talendType="id_Double" nullable="true"/>
+  <variables name="row2.collection" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.professional_player" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.racket_type" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.surface" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.Pk_Equipment" value="0" talendType="id_Integer"/>
+  <variables name="row3.title" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.handle" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.product_type" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.price" value="null" talendType="id_Double" nullable="true"/>
+  <variables name="row3.racket_type" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.surface" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Numeric.sequence(&quot;s1&quot;,1,1) " value="0" talendType="id_Integer"/>
+</expression:EMFExpression>
